@@ -20,11 +20,12 @@ will have four main inputs:
 3. **Real variants (GWAS/eQTL/sQTL)**  
    - A table with rows like:  
      - `chr, pos, ref, alt, source_type (GWAS/eQTL/sQTL), gene, beta_AD, p_AD, beta_expr, beta_splice, ...`.
- /bGWAS DATASET(https://statfungen.github.io/xqtl-resources/xqtl-data/gwas/Bellenguez_AD/)
- /bAlzheimer’s curated variant portal(https://advp.niagads.org/)
- Brain eQTL/sQTL data(https://github.com/broadinstitute/gtex-v8/blob/master/README.md)
- Regional Variation of Splicing QTLs in Human Brain(https://pmc.ncbi.nlm.nih.gov/articles/PMC7413857/)
- An xQTL map integrates the genetic architecture of the human brain’s transcriptome and epigenome(https://pmc.ncbi.nlm.nih.gov/articles/PMC5785926/)
+       <br>
+ <br> GWAS DATASET(https://statfungen.github.io/xqtl-resources/xqtl-data/gwas/Bellenguez_AD/)
+ <br>Alzheimer’s curated variant portal(https://advp.niagads.org/)
+ <br>Brain eQTL/sQTL data(https://github.com/broadinstitute/gtex-v8/blob/master/README.md)
+ <br>Regional Variation of Splicing QTLs in Human Brain(https://pmc.ncbi.nlm.nih.gov/articles/PMC7413857/)
+ <br>An xQTL map integrates the genetic architecture of the human brain’s transcriptome and epigenome(https://pmc.ncbi.nlm.nih.gov/articles/PMC5785926/)
 4. **In‑silico variants (you generate)**  
    - You programmatically create variants in your APP/MAPT windows:  
      - e.g. one SNV every N bp in promoters, introns, UTRs, etc.  
@@ -235,4 +236,5 @@ Putting it all together:
 
 
 That’s the full data/computation flow future code will implement.
+
 
