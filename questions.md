@@ -1,4 +1,5 @@
-- what tissues we care about?
-- what modalities we care about? (RNA-Seq, Splicing, etc AlphaGenome supports 11 modalities)
+- What tissues do we care about?
+- What modalities do we care about? (RNA-Seq, Splicing, etc.) AlphaGenome supports 11 modalities.
 - get the gwas dataset.
-- choosing regions where we will prioritize the mutations 
+- choosing regions where we will prioritize the mutations
+- Create a CSV file of all the variants we are going to mutate.
