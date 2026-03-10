@@ -20,8 +20,8 @@ will have four main inputs:
 3. **Real variants (GWAS/eQTL/sQTL)**  
    - A table with rows like:  
      - `chr, pos, ref, alt, source_type (GWAS/eQTL/sQTL), gene, beta_AD, p_AD, beta_expr, beta_splice, ...`.
- GWAS DATASET(https://statfungen.github.io/xqtl-resources/xqtl-data/gwas/Bellenguez_AD/)
- Alzheimer’s curated variant portal(https://advp.niagads.org/)
+ /bGWAS DATASET(https://statfungen.github.io/xqtl-resources/xqtl-data/gwas/Bellenguez_AD/)
+ /bAlzheimer’s curated variant portal(https://advp.niagads.org/)
  Brain eQTL/sQTL data(https://github.com/broadinstitute/gtex-v8/blob/master/README.md)
  Regional Variation of Splicing QTLs in Human Brain(https://pmc.ncbi.nlm.nih.gov/articles/PMC7413857/)
  An xQTL map integrates the genetic architecture of the human brain’s transcriptome and epigenome(https://pmc.ncbi.nlm.nih.gov/articles/PMC5785926/)
@@ -235,3 +235,4 @@ Putting it all together:
 
 
 That’s the full data/computation flow future code will implement.
+
