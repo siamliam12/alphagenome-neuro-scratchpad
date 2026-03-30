@@ -20,5 +20,11 @@
 ### Hypothesis:
 - A single A -> G substitution at the rs356168 locus, when analyzed within its 1Mb genomic context, will result in a measurable 'delta' (increase) in predicted transcription factor binding and SNCA gene expression in brain tissue.
 
+### Mechanism Discovery:
+- If TF Binding $\Delta$ is high $\rightarrow$ You've found the Recruitment.
+- If ATAC-seq $\Delta$ is high $\rightarrow$ You've found the Opening.
+- If Hi-C $\Delta$ shows a new contact $\rightarrow$ You've found the Loop.
+- If RNA-seq $\Delta$ is positive $\rightarrow$ You've found the Expression Increase.
+
 ### Links
 Nature(https://pmc.ncbi.nlm.nih.gov/articles/PMC5042324/)
