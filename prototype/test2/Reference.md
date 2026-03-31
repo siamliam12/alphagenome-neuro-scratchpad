@@ -18,7 +18,7 @@
 - Genomic duplications of SNCA indicate that an increase by 50% in SNCA expression is sufficient to develop an autosomal-dominant form of the disease, suggesting that PD-associated risk variants might lead to a subtle increase in SNCA expression
 
 ### Hypothesis:
-- A single A -> G substitution at the rs356168 locus, when analyzed within its 1Mb genomic context, will result in a measurable 'delta' (increase) in predicted transcription factor binding and SNCA gene expression in brain tissue.
+- The non-coding variant $rs356168$ acts as a functional regulatory switch in brain tissue. Specifically, this variant alters local epigenetic states (chromatin accessibility/TF binding) to drive a subtle gain-of-function increase in SNCA expression, thereby contributing to the lifelong cumulative risk of Parkinson's Disease pathology as described in 'autosomal-dominant' models.
 
 ### Mechanism Discovery:
 - If TF Binding $\Delta$ is high $\rightarrow$ You've found the Recruitment.
